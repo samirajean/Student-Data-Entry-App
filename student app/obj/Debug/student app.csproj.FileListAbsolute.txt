@@ -1,0 +1,24 @@
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\bin\Debug\student app.exe.config
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\bin\Debug\student app.exe
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\bin\Debug\student app.pdb
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\obj\Debug\student app.csprojResolveAssemblyReference.cache
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\obj\Debug\student_app.Form1.resources
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\obj\Debug\student_app.Properties.Resources.resources
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\obj\Debug\student app.csproj.GenerateResource.Cache
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\obj\Debug\student app.exe
+c:\users\aast.pc_15\documents\visual studio 2012\Projects\student app\student app\obj\Debug\student app.pdb
+E:\Adv Week 10\student app\student app\bin\Debug\student app.exe.config
+E:\Adv Week 10\student app\student app\obj\Debug\student app.exe
+E:\Adv Week 10\student app\student app\obj\Debug\student app.pdb
+E:\Adv Week 10\student app\student app\bin\Debug\student app.exe
+E:\Adv Week 10\student app\student app\bin\Debug\student app.pdb
+E:\Adv Week 10\student app\student app\obj\Debug\student app.csprojResolveAssemblyReference.cache
+E:\Adv Week 10\student app\student app\obj\Debug\student_app.Form1.resources
+E:\Adv Week 10\student app\student app\obj\Debug\student_app.Properties.Resources.resources
+E:\Adv Week 10\student app\student app\obj\Debug\student app.csproj.GenerateResource.Cache
+C:\Users\aast.PC_15\Desktop\student app\student app\bin\Debug\student app.exe.config
+C:\Users\aast.PC_15\Desktop\student app\student app\obj\Debug\student app.exe
+C:\Users\aast.PC_15\Desktop\student app\student app\obj\Debug\student app.pdb
+C:\Users\TOSHIBA\Desktop\student app\student app\bin\Debug\student app.exe.config
+C:\Users\TOSHIBA\Desktop\student app\student app\obj\Debug\student app.exe
+C:\Users\TOSHIBA\Desktop\student app\student app\obj\Debug\student app.pdb
